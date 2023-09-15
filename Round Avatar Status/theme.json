@@ -4,8 +4,8 @@
     "target": "System-Wide",
     "manifest_version": 4,
     "description": "This makes the avatar status at the top right of the screen appear as a round dot instead of a vertical bar.",
-    "version": "v1.0",
+    "version": "v1.1",
     "inject": {
-        "shared.css": ["SP"]
+        "shared.css": ["SP", "QuickAccess"]
     }
 }
